@@ -1,5 +1,9 @@
+
+// use strict
 "use strict"
 // s=1 
+
+// print hellow world
 console.log('sas')
 
 // VARIABLES
