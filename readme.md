@@ -2,6 +2,7 @@
 ___
 
 
+
 * ~~JavaScript: Hello, World Example~~ &check;
 * ~~JavaScript: "use strict"~~ &check;
 * ~~JavaScript: Variables~~ &check;
@@ -11,7 +12,7 @@ ___
 * ~~JavaScript: Strings~~ &check;
 * ~~JavaScript: Arrays~~ &check;
 * ~~JavaScript: Array Methods~~ &check;
-* JavaScript: Iterables
+* ~~JavaScript: Iterables~~ &check;
 ___
 * JavaScript: Map and Set
 * JavaScript: alert, prompt, confirm
