@@ -1,14 +1,14 @@
-JavaScript: Hello, World Example(done)
-JavaScript: "use strict"(done)
-JavaScript: Variables(done)
-JavaScript: Datatypes(done)
-JavaScript: Methods of primitives(done)
-JavaScript: Numbers(done)
-JavaScript: Strings(done)
-JavaScript: Arrays(done)
-JavaScript: Array Methods
-JavaScript: Iterables
-JavaScript: Map and Set
+* JavaScript: Hello, World Example &check;
+* JavaScript: "use strict" &check;
+* JavaScript: Variables &check;
+* JavaScript: Datatypes &check;
+* JavaScript: Methods of primitives &check;
+* JavaScript: Numbers &check;
+* JavaScript: Strings &check;
+* JavaScript: Arrays &check;
+* JavaScript: Array Methods
+* JavaScript: Iterables
+* JavaScript: Map and Set
 JavaScript: alert, prompt, confirm
 JavaScript: Type Conversions
 JavaScript: Basic Operators, maths
