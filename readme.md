@@ -1,6 +1,7 @@
 # Topics for JS
 ___
-
+### DAY 1
+___
 
 
 * ~~JavaScript: **Hello, World Example**~~ &check;
@@ -14,6 +15,8 @@ ___
 * ~~JavaScript: **Array Methods**~~ &check;
 * ~~JavaScript: **Iterables**~~ &check;
 ___
+### DAY 2
+___
 * JavaScript: Map and Set
 * JavaScript: alert, prompt, confirm
 * JavaScript: Type Conversions
@@ -24,6 +27,9 @@ ___
 * JavaScript: Nullish coalescing Operator
 * JavaScript: Loops: while and for
 * JavaScript: switch statement
+___
+
+### DAY 3
 ___
 * JavaScript: Functions
 * JavaScript: Function Expressions
@@ -37,6 +43,9 @@ ___
 * JavaScript: Optional Chaining
 * JavaScript: Object.keys
 ___
+
+### DAY 4
+___
 * JavaScript: Destructring assignment
 * JavaScript: Destructring assignment
 * JavaScript: Date and Time
@@ -47,6 +56,9 @@ ___
 * JavaScript: Error handling, try catch
 * JavaScript: Custom errors
 ___
+
+### DAY 5
+___
 * JavaScript: Callbacks
 * JavaScript: Promises
 * JavaScript: Promises Chaining
@@ -56,4 +68,4 @@ ___
 * JavaScript: Export and import
 * Extra : Object Constructor and Prototype
 
-___
+___git 
