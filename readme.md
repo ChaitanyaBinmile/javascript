@@ -1,4 +1,6 @@
 # Topics for JS
+___
+
 
 * ~~JavaScript: Hello, World Example~~ &check;
 * ~~JavaScript: "use strict"~~ &check;
