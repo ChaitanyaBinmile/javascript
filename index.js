@@ -16,8 +16,8 @@ let firstName = "rock";
 let lastName = "Johnson";
 
 // Booleans
-let x = true;
-let y = false;
+let a = true;
+let b = false;
 
 // Object:
 const person = {class:"11", subject:"science"};
@@ -29,7 +29,7 @@ const cars = ["maruti", "hundai", "BMW"];
 const date = new Date("2022-03-28");
 
 // Methods of primitives
-let str = "Welcome to W3Docs";
+let str = "Welcome to BINMILE";
 console.log(str.toUpperCase()); 
 
 
@@ -37,3 +37,10 @@ console.log(str.toUpperCase());
 // push pop shift unshift
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.shift();
+
+
+// Iterables
+for (const c of [1,2,3,4,5]) {
+    console.log(c)
+  }
+  
