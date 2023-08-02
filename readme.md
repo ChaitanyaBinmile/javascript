@@ -1,3 +1,5 @@
+# Topics for JS
+
 * JavaScript: Hello, World Example &check;
 * JavaScript: "use strict" &check;
 * JavaScript: Variables &check;
