@@ -10,6 +10,7 @@
 * ~~JavaScript: Arrays~~ &check;
 * ~~JavaScript: Array Methods~~ &check;
 * JavaScript: Iterables
+___
 * JavaScript: Map and Set
 * JavaScript: alert, prompt, confirm
 * JavaScript: Type Conversions
@@ -20,6 +21,7 @@
 * JavaScript: Nullish coalescing Operator
 * JavaScript: Loops: while and for
 * JavaScript: switch statement
+___
 * JavaScript: Functions
 * JavaScript: Function Expressions
 * JavaScript: Arrow Functions, the basics
@@ -31,6 +33,7 @@
 * JavaScript: Object references and copying
 * JavaScript: Optional Chaining
 * JavaScript: Object.keys
+___
 * JavaScript: Destructring assignment
 * JavaScript: Destructring assignment
 * JavaScript: Date and Time
@@ -40,6 +43,7 @@
 * JavaScript: Spread operator
 * JavaScript: Error handling, try catch
 * JavaScript: Custom errors
+___
 * JavaScript: Callbacks
 * JavaScript: Promises
 * JavaScript: Promises Chaining
@@ -49,3 +53,4 @@
 * JavaScript: Export and import
 * Extra : Object Constructor and Prototype
 
+___
