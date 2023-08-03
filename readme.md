@@ -32,7 +32,7 @@ ___
 ### DAY 3
 ___
 * JavaScript: **Functions**
-* JavaScript: **Function Expressions**
+* JavaScript: **Function Expressions
 * JavaScript: **Arrow Functions, the basics**
 * JavaScript: **Debugging in chrome or firebox**
 * JavaScript: **Comments**
