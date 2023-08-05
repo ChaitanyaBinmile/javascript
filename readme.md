@@ -31,12 +31,12 @@ ___
 
 ### DAY 3
 ___
-* JavaScript: **Functions**
-* JavaScript: **Function Expressions
-* JavaScript: **Arrow Functions, the basics**
+* ~~JavaScript: **Functions**~~ &check;
+* ~~JavaScript: **Function Expressions~~ &check;
+* ~~JavaScript: **Arrow Functions, the basics**~~ &check;
 * JavaScript: **Debugging in chrome or firebox**
-* JavaScript: **Comments**
-* JavaScript: **Polyfills and transpillers**
+* ~~JavaScript: **Comments**~~ &check;
+* ~~JavaScript: **Polyfills and transpillers**~~ &check;
 * JavaScript: **Objects**
 * JavaScript: **Objects methods, "this"**
 * JavaScript: **Object references and copying**

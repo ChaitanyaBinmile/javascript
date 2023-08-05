@@ -17,7 +17,7 @@ function print(s){
 print("dss")
 
 
-// funciton expressions
+// funciton expressions + arrow functions
 
 const expression = (c) =>  c+2;
 
@@ -27,3 +27,16 @@ hola(9)
 function hola  (a) {return a+1};
 
 // note function expressions cannot be hoisted but normal functions can
+
+
+// objects
+const person = {
+    firstName:"John",
+    lastName:"Doe",
+    age:50, eyeColor:"blue"
+  }
+  
+  const x = person;
+  x.age = 10;   
+
+  print(x)
