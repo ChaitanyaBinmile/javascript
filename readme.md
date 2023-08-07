@@ -39,8 +39,8 @@ ___
 * ~~JavaScript: **Polyfills and transpillers**~~ &check;
 * ~~JavaScript: **Objects**~~ &check;
 * ~~JavaScript: **Objects methods, "this"**~~ &check;
-* JavaScript: **Object references and copying**
-* JavaScript: **Optional Chaining**
+* ~~JavaScript: **Object references and copying**~~ &check;
+* ~~JavaScript: **O &check;ptional Chaining**~~ &check;
 * JavaScript: **Object.keys**
 ___
 

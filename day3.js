@@ -62,3 +62,11 @@ Object.assign(user1, permissions1, permissions2);
 print(user1.name); // John
 print(user1.canView); // true
 print(user1.canEdit); // true
+
+// object keys
+const arr = ["a", "b", "c"];
+console.log(Object.keys(arr)); // ['0', '1', '2']
+
+// Array-like object
+const obj = { 0: "a", 1: "b", 2: "c" };
+console.log(Object.keys(obj)); // ['0', '1', '2']
