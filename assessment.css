@@ -17,7 +17,9 @@ button{
 	background: #f4f7f8;
 	border-radius: 8px;
 	font-family: Georgia, "Times New Roman", Times, serif;
+    cursor: pointer;
 }
+
 #center{
     
     display: flex;
