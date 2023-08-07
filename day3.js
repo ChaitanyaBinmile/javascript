@@ -50,3 +50,19 @@ Object.assign(user1, permissions1, permissions2);
 print(user1.name); // John
 print(user1.canView); // true
 print(user1.canEdit); // true
+
+
+// Optional chaining (?.)
+function printCustomerCity(customer) {
+    const customerCity = customer?.city ?? "Unknown city";
+    console.log(customerCity);
+  }
+  
+  printCustomerCity({
+    name: "Nathan",
+    city: "Paris",
+  }); // "Paris"
+  printCustomerCity({
+    name: "Carl",
+    details: { age: 82 },
+  }); // "U
