@@ -40,3 +40,25 @@ const person = {
   x.age = 10;   
 
   print(x)
+//   Object references and copying
+let user = { name: 'John' };
+
+let admin = user;
+
+admin.name = 'Pete'; // changed by the "admin" reference
+
+print(user.name); 
+
+//  cloning obejcts
+let user1 = { name: "John" };
+
+let permissions1 = { canView: true };
+let permissions2 = { canEdit: true };
+
+// copies all properties from permissions1 and permissions2 into user
+Object.assign(user1, permissions1, permissions2);
+
+// now user = { name: "John", canView: true, canEdit: true }
+print(user1.name); // John
+print(user1.canView); // true
+print(user1.canEdit); // true
