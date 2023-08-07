@@ -37,8 +37,8 @@ ___
 * JavaScript: **Debugging in chrome or firebox**
 * ~~JavaScript: **Comments**~~ &check;
 * ~~JavaScript: **Polyfills and transpillers**~~ &check;
-* JavaScript: **Objects**
-* JavaScript: **Objects methods, "this"**
+* ~~JavaScript: **Objects**~~ &check;
+* ~~JavaScript: **Objects methods, "this"**~~ &check;
 * JavaScript: **Object references and copying**
 * JavaScript: **Optional Chaining**
 * JavaScript: **Object.keys**
