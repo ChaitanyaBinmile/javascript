@@ -1,5 +1,5 @@
 
-const print = (a)=>{return console.log(a)};
+var print = (a)=>{return console.log(a)};
 
 
 
@@ -47,4 +47,14 @@ function myFunction(v, w, x, y, z) {
 const parts = ["shoulders", "knees"];
 const lyrics = ["head", ...parts, "and", "toes"];
 print(lyrics)
-//  ["head", "shoulders", "knees", "and", "toes"]
+
+
+
+// try catch
+try{
+    print('aalo')
+    allala
+}catch(error){
+    print(`${error} error occured,`)
+    
+}

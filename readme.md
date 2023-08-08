@@ -41,29 +41,29 @@ ___
 * ~~JavaScript: **Objects methods, "this"**~~ &check;
 * ~~JavaScript: **Object references and copying**~~ &check;
 * ~~JavaScript: **O &check;ptional Chaining**~~ &check;
-* JavaScript: **Object.keys**
+* ~~JavaScript: **Object.keys**~~ &check;
 ___
 
 ### DAY 4
 ___
-* JavaScript: **Destructring assignment**
-* JavaScript: **Destructring assignment**
-* JavaScript: **Date and Time**
-* JavaScript: **JSON methods, toJSON**
-* JavaScript: **setInterval, setTimeout**
-* JavaScript: **VAR vs LET vs CONST**
-* JavaScript: **Spread operator**
-* JavaScript: **Error handling, try catch**
-* JavaScript: **Custom errors**
+* ~~JavaScript: **Destructring assignment**~~ &check;
+* ~~JavaScript: **Destructring assignment**~~ &check;
+* ~~JavaScript: **Date and Time**~~ &check;
+* ~~JavaScript: **JSON methods, toJSON**~~ &check;
+* ~~JavaScript: **setInterval, setTimeout**~~ &check;
+* ~~JavaScript: **VAR vs LET vs CONST**~~ &check;
+* ~~JavaScript: **Spread operator**~~ &check;
+* ~~JavaScript: **Error handling, try catch**~~ &check;
+* ~~JavaScript: **Custom errors**~~ &check;
 ___
 
 ### DAY 5
 ___
-* JavaScript: **Callbacks**
-* JavaScript: **Promises**
-* JavaScript: **Promises Chaining**
-* JavaScript: **Error Handling with promises**
-* JavaScript: **Async Await**
+* ~~JavaScript: **Callbacks**~~ &check;
+* ~~JavaScript: **Promises**~~ &check;
+* ~~JavaScript: **Promises Chaining**~~ &check;
+* ~~JavaScript: **Error Handling with promises**~~ &check;
+* ~~JavaScript: **Async Await**~~ &check;
 * JavaScript: **Modules**
 * JavaScript: **Export and import**
 * **Extra : Object Constructor and Prototype**
