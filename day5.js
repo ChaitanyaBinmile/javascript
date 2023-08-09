@@ -91,6 +91,6 @@ function delay(ms) {
     console.log(`Hello, my name is ${this.name} and I'm ${this.age} years old.`);
   };
   
-  const person1 = new Person('nitin', 23);
+  const person1 = new Person('chaitan', 23);
   person1.sayHello();
   
